@@ -1,6 +1,6 @@
-# Basic Python Application Projects
+# Basic Python GUI Application Projects
 
-Welcome to the GitHub repository showcasing my basic Python application development projects. Here, you'll find details and source code for the various applications I have created from September 2023 onwards.
+Welcome to the GitHub repository showcasing my Python GUI Application development projects. Here, you'll find details and source code for the various applications I have created from September 2023 onwards.
 
 ## Task Manager App
 - **Description:** Designed and implemented a task manager app with due date tracking and task completion features.
